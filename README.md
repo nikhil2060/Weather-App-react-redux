@@ -1,6 +1,7 @@
 ## Weatherly
 
 **Link :** [Click here to open Live Website](https://weatherly-by-nikhil.netlify.app)
+
 This project is a powerful weather search website built with React and Vite, allowing you to access real-time weather information for any location on the planet.
 
 ### Features
